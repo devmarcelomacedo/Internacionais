@@ -257,7 +257,12 @@ document.addEventListener('DOMContentLoaded', () => {
             artist: 'Maná ',
             src: 'musicas/Maná Vivir sin aire LEGENDADO PORTUGUÊS.mp3'
         },
-        
+             {
+            title: 'Rocket Man',
+            artist: 'Elton John ',
+            src: 'musicas/Elton John - Rocket Man (Official Music Video)(MP3_160K).mp3'
+        },
+    
        
     ];
 
